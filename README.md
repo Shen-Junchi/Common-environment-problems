@@ -2,7 +2,11 @@
 This is a total tutorial of how to solve problems in Python environment 
 
 # This is how to deal with not enough right to use package
-
+Python
+```
+ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory: 'C:\\Users\\jshen67\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\tensorflow\\include\\external\\com_github_grpc_grpc\\src\\core\\ext\\filters\\client_channel\\lb_policy\\grpclb\\client_load_reporting_filter.h'
+HINT: This error might have occurred since this system does not have Windows Long Path support enabled. You can find information on how to enable this at https://pip.pypa.io/warnings/enable-long-paths
+```
 In library we don't enough right to deal with unsufficient right
 
 link:
