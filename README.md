@@ -27,3 +27,10 @@ Then feel free to build your environment
 
 Next time whenn you want to use it, cd the place and activate directly. 
 
+# How to deal with complex env
+使用命令面板
+
+
+按Ctrl+Shift+P(Windows/Linux)或Cmd+Shift+P(Mac)
+输入"Python: Select Interpreter"
+选择你需要的Python环境或Kernel
